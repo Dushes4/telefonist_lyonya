@@ -31,6 +31,9 @@
 (авторизация в интерфейсе происходит через discord-аккаунт, поэтому хранить логины и пароли пользователей в нашем случае не нужно)
 
 ### 3. ER диаграмма
+Версия 1
 ![ER](https://media.discordapp.net/attachments/755814596383735848/911166374599073832/2.png)
+Версия 2
+![ER](https://sun9-39.userapi.com/impg/geL3nXP4ewZ-udACZ5diuBpk_nvWmNoN9pyjxA/6U-wZ4HwpYs.jpg?size=1422x785&quality=96&sign=5bccb68d793ee339dff25e81969559f6&type=album)
 ### 4. Даталогическая модель
 ![data](https://media.discordapp.net/attachments/755814596383735848/911201341668466738/1.png)
