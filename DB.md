@@ -32,7 +32,7 @@
 
 ### 3. ER диаграмма
 Мы не очень поняли, в чем ошибка, сделали два варианта. Даталогическую модель переделаем под нужный.
-Версия 1
+Версия 1 (наверное она логичнее)
 ![ER](https://media.discordapp.net/attachments/755814596383735848/913689071648374794/2.png?width=956&height=553)
 Версия 2
 ![ER](https://sun9-67.userapi.com/impg/jMvuVKyu6yS3jkrz1sIE95GmjRm0X5IlaKdAeg/BuDN0JHkhps.jpg?size=1422x911&quality=96&sign=7fdf51d56c18ee6ffb5b6d94c37a34bd&type=album)
