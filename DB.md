@@ -31,8 +31,9 @@
 (авторизация в интерфейсе происходит через discord-аккаунт, поэтому хранить логины и пароли пользователей в нашем случае не нужно)
 
 ### 3. ER диаграмма
+Мы не очень поняли, в чем ошибка, сделали два варианта. Даталогическую модель переделаем под нужный.
 Версия 1
-![ER](https://media.discordapp.net/attachments/755814596383735848/911166374599073832/2.png)
+![ER](https://media.discordapp.net/attachments/755814596383735848/913689071648374794/2.png?width=956&height=553)
 Версия 2
 ![ER](https://sun9-67.userapi.com/impg/jMvuVKyu6yS3jkrz1sIE95GmjRm0X5IlaKdAeg/BuDN0JHkhps.jpg?size=1422x911&quality=96&sign=7fdf51d56c18ee6ffb5b6d94c37a34bd&type=album)
 ### 4. Даталогическая модель
