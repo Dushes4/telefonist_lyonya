@@ -26,16 +26,17 @@
 ![ER](https://media.discordapp.net/attachments/755814596383735848/916221273162534952/Auth_2.png)
 
 #### Выбор сервера:
-![ER](https://media.discordapp.net/attachments/755814596383735848/916221274416640050/server.png?width=737&height=553)
+![ER](https://media.discordapp.net/attachments/755814596383735848/916235076877029416/server.png)
 #### Плеер (для пользователя):
-![ER](https://media.discordapp.net/attachments/755814596383735848/916226391014514718/player_user.png?width=737&height=553)
+![ER](https://media.discordapp.net/attachments/755814596383735848/916235078143733770/player_user.png)
 #### Плеер (для модератора и админа):
-![ER](https://media.discordapp.net/attachments/755814596383735848/916226309431099422/player.png?width=737&height=553)
+![ER](https://media.discordapp.net/attachments/755814596383735848/916235077946597395/player.png)
 #### История:
-![ER](https://media.discordapp.net/attachments/755814596383735848/916221274836054026/history.png?width=738&height=553)
+![ER](https://media.discordapp.net/attachments/755814596383735848/916235077468442714/history.png)
 #### Настройки:
-![ER](https://media.discordapp.net/attachments/755814596383735848/916221274626342922/settings.png?width=738&height=553)
+![ER](https://media.discordapp.net/attachments/755814596383735848/916235077149683732/settings.png)
 
 ### 3. Диаграмма пользовательских сценариев
+
 
 
