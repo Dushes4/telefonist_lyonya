@@ -40,5 +40,19 @@
 
 ### 3. Диаграмма пользовательских сценариев
 
+#### Неавторизованный пользователь:
+![ER](https://media.discordapp.net/attachments/755814596383735848/916243876031918131/18gYRxVAygmBQMBhEqCLJECAAAECBAgQIECAAAECBAgQIECAAAECBL4EHCZfe2hDgAABAgQIECBAgAABAgQIECBAgAABAgQIBAIOkwBdJAECBAgQIECAAAECBAgQIECAAAECBAgQIPAl4DD52kMbAgQIECBAgAABAgQIECBAgAABAgQIECBAIBBwmAToIgkQIECAAAECBAgQIECAAAECBAgQIECAAIEvAYfJ1x7aECBAgAABAgQIECBAgAABAgQIECBAgAABAoGAwyRAF0mAAAECBAgQIECAAAECBAgQIECAAAECBAh8CThMvvbQhgABAgQIECBAgAABAgQIECBAgAABAgQIEAgEHCYBukgCBAgQIECAAAECBAgQIECAAAECBAgQIEDgS8Bh8rWHNgQIECBAgAABAgQIECBAgAABAgQIECBAgEAgMDkv6PwmJrBQAAAAAElFTkSuQmCC.png?width=462&height=553
+)
 
+#### Пользователь/модератор:
+
+![ER](https://media.discordapp.net/attachments/755814596383735848/916243946416513024/7Tzikgx2rAAAAAElFTkSuQmCC.png?width=573&height=553
+)
+
+(В плеере у модератора есть дополнительные возможности управлять воспроизведением)
+
+
+#### Администратор:
+![ER](https://media.discordapp.net/attachments/755814596383735848/916245170196983838/zawUAAAAASUVORK5CYII.png?width=629&height=553
+)
 
